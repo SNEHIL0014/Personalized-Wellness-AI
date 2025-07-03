@@ -16,9 +16,9 @@ This project is a machine learning proof-of-concept that predicts mood based on 
 personalized-wellness-ai/
 ├── ml\_wellness\_project\_Snehil\_Srivastava.ipynb  # Complete notebook
 
-                         ├── README.md                                    # Project overview (this file)
+├── README.md                                    # Project overview (this file)
 
-                         └── LICENSE                                      # MIT License (recommended)
+└── LICENSE                                      # MIT License (recommended)
 
 
 ## ⚙️ Technologies Used
@@ -43,4 +43,3 @@ personalized-wellness-ai/
 ## 📜 License
 
 This project is licensed under the MIT License.
-```
